@@ -22,5 +22,3 @@ my_list.sort()
 # Find and print the index of value 30
 index_30 = my_list.index(30)
 print("Index of 30:", index_30)
-
-<!-- THE END -->
